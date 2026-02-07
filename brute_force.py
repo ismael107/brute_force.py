@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = "http://192.168.1.97:8080/login.php"
+url = "DVWA:8080/login.php"
 
 user = "admin"
 passwords = [
